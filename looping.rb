@@ -1,5 +1,6 @@
 def looping
-	#your code here
+	loop 
+	puts
 end
 
 #call your method here
